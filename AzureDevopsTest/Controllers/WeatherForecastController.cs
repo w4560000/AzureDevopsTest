@@ -22,7 +22,7 @@ namespace AzureDevopsTest.Controllers
         [HttpGet]
         public string Get()
         {
-            return "41";
+            return "5";
         }
     }
 }
